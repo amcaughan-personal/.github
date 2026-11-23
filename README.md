@@ -1,10 +1,7 @@
-# repo-name
+# .github
 
-One or two sentences: what this is, and why it exists.
-
-## Usage
-
-## Development
+The organization's profile page: GitHub shows [`profile/README.md`](profile/README.md) at the top of
+[github.com/amcaughan-personal](https://github.com/amcaughan-personal). Edit it with a pull request like any other change.
 
 ## Development environment
 
